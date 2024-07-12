@@ -1,6 +1,8 @@
 ferm README
 ===========
 
+The 'go-rewrite' branch is my attempt and re-writing ferm in golang. LOL
+
 
 Description
 -----------
